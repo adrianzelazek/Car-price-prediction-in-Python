@@ -6,7 +6,7 @@ In this project was used dataset concerning particular features of cars as well 
 This project was developed for the purpose of practicing machine learning technology
 and data mining in Python. Predictions were exported to Excel.
 
-##### It is preferred to run/view the project via Jupyter Notebook (.ipynb) than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
+##### It is preferred to run/view the project via Jupyter Notebook (.ipynb), sometimes it is required to press "Reload" to load the file, than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
 
 ### Programming language and platform
 * Python - version : 3.7.4
